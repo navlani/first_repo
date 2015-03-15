@@ -1,5 +1,5 @@
 # first_repo
 To test and practice repo making
-## Makes it small or big?
-### Small or big
+## Makes it smaller
+### even smaller
 * This puts bullets.
